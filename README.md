@@ -8,4 +8,8 @@ Modified a starter code to create an application that enables a payroll manager 
 ![Screenshot console of an employee payroll tracker.](./assets/employee-screenshot.png)
 
 ## Links
+
+https://github.com/awigginsjr/03-Challenge.git
+
+https://awigginsjr.github.io/03-Challenge/
  
